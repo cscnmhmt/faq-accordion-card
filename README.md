@@ -16,11 +16,11 @@ Users should be able to:
 
 ### Mobile
 
-![]("/assets/mobile-ss.png")
+![](/assets/mobile-ss.png)
 
-### Mobile
+### Desktop
 
-![]("/assets/desktop-ss.png")
+![](/assets/desktop-ss.png)
 
 ### Links
 
