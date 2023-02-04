@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://cscn-faq-accordion-card.netlify.app/)
+- Live Site URL: [LIVE](https://cscn-faq-accordion-card.netlify.app/)
 
 ## My process
 
