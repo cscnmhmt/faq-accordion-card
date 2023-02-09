@@ -22,9 +22,6 @@ Users should be able to:
 
 ![](/assets/desktop-ss.png)
 
-### Links
-
-- Live Site URL: [LIVE](https://cscn-faq-accordion-card.netlify.app/)
 
 ## My process
 
